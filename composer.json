@@ -1,21 +1,22 @@
 {
-    "name": "imliam/laravel-env-set-command",
+    "name": "rdp77/laravel-env-set-command",
     "description": "Set a .env file variable from the command line",
     "keywords": [
-        "imliam",
+        "rdp77",
         "laravel-env-set-command",
         "environment",
         "variables",
         "env",
-        "artisan"
+        "artisan",
+        "regex
     ],
     "homepage": "https://github.com/imliam/laravel-env-set-command",
     "license": "MIT",
     "authors": [
         {
-            "name": "Liam Hammett",
-            "email": "liam@liamhammett.com",
-            "homepage": "https://liamhammett.com",
+            "name": "Moh Ravi Dwi Putra",
+            "email": "ravidwiputra@gmail.com",
+            "homepage": "https://ravidwiputra.my.id",
             "role": "Developer"
         }
     ],
