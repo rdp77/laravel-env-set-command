@@ -8,7 +8,7 @@
         "variables",
         "env",
         "artisan",
-        "regex
+        "regex"
     ],
     "homepage": "https://github.com/imliam/laravel-env-set-command",
     "license": "MIT",
