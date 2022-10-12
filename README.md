@@ -1,8 +1,8 @@
 # Laravel `env:set` Command
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/imliam/laravel-env-set-command.svg)](https://packagist.org/packages/imliam/laravel-env-set-command)
-[![Total Downloads](https://img.shields.io/packagist/dt/imliam/laravel-env-set-command.svg)](https://packagist.org/packages/imliam/laravel-env-set-command)
-[![License](https://img.shields.io/github/license/imliam/laravel-env-set-command.svg)](LICENSE.md)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/rdp77/laravel-env-set-command.svg)](https://packagist.org/packages/rdp77/laravel-env-set-command)
+[![Total Downloads](https://img.shields.io/packagist/dt/rdp77/laravel-env-set-command.svg)](https://packagist.org/packages/rdp77/laravel-env-set-command)
+[![License](https://img.shields.io/github/license/rdp77/laravel-env-set-command.svg)](LICENSE.md)
 [![CI Status](https://github.com/imliam/laravel-env-set-command/workflows/Run%20Tests/badge.svg)](https://github.com/imliam/laravel-env-set-command/actions)
 
 Set a .env file variable from the command line.
@@ -27,7 +27,7 @@ Set a .env file variable from the command line.
 You can install the package with [Composer](https://getcomposer.org/) using the following command:
 
 ```bash
-composer require imliam/laravel-env-set-command:^1.0
+composer require rdp77/laravel-env-set-command:^1.0
 ```
 
 ## Usage
@@ -90,10 +90,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email liam@liamhammett.com instead of using the issue tracker.
+If you discover any security related issues, please email ravidwiputra@gmail.com instead of using the issue tracker.
 
 ## Credits
 
+- [Moh Ravi Dwi Putra](https://github.com/rdp77)
 - [Liam Hammett](https://github.com/imliam)
 - [All Contributors](../../contributors)
 
