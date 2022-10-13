@@ -1,6 +1,6 @@
 <?php
 
-namespace ImLiam\EnvironmentSetCommand;
+namespace EnvSet\EnvironmentSetCommand;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\App;
@@ -108,7 +108,7 @@ class EnvironmentSetCommand extends Command
     public function readKeyValuePair(string $envFileContent, string $key): ?string
     {
         // Match the given key at the beginning of a line
-        if (preg_match("#^ *{$key} *= *[^\r\n]*$#uimU", $envFileContent, $matches)) {
+        if (preg_match("#^{$key}=*[^\\\R]*$#uimU", $envFileContent, $matches)) {
             return $matches[0];
         }
 

@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Fixed
 ### Security
 
+## [1.3.0] - 2022-10-13
+### Changed
+- Same features as before
+
 ## [1.2.0] - 2020-09-13
 ### Added
 - Laravel 8 support
