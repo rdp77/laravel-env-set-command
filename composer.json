@@ -10,7 +10,7 @@
         "artisan",
         "regex"
     ],
-    "homepage": "https://github.com/imliam/laravel-env-set-command",
+    "homepage": "https://github.com/rdp77/laravel-env-set-command",
     "license": "MIT",
     "authors": [
         {
@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ImLiam\\EnvironmentSetCommand\\": "src"
+            "EnvSet\\EnvironmentSetCommand\\": "src"
         }
     },
     "autoload-dev": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ImLiam\\EnvironmentSetCommand\\EnvironmentSetCommandServiceProvider"
+                "EnvSet\\EnvironmentSetCommand\\EnvironmentSetCommandServiceProvider"
             ]
         }
     }

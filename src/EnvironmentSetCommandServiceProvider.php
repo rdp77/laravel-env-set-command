@@ -1,6 +1,6 @@
 <?php
 
-namespace ImLiam\EnvironmentSetCommand;
+namespace EnvSet\EnvironmentSetCommand;
 
 use Illuminate\Support\ServiceProvider;
 
