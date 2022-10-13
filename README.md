@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/rdp77/laravel-env-set-command.svg)](https://packagist.org/packages/rdp77/laravel-env-set-command)
 [![Total Downloads](https://img.shields.io/packagist/dt/rdp77/laravel-env-set-command.svg)](https://packagist.org/packages/rdp77/laravel-env-set-command)
 [![License](https://img.shields.io/github/license/rdp77/laravel-env-set-command.svg)](LICENSE.md)
-[![CI Status](https://github.com/imliam/laravel-env-set-command/workflows/Run%20Tests/badge.svg)](https://github.com/imliam/laravel-env-set-command/actions)
+[![CI Status](https://github.com/rdp77/laravel-env-set-command/workflows/Run%20Tests/badge.svg)](https://github.com/rdp77/laravel-env-set-command/actions)
 
 Set a .env file variable from the command line.
 
