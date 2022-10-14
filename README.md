@@ -27,7 +27,7 @@ Set a .env file variable from the command line.
 You can install the package with [Composer](https://getcomposer.org/) using the following command:
 
 ```bash
-composer require rdp77/laravel-env-set-command:^1.0
+composer require rdp77/laravel-env-set-command:^1.4.0
 ```
 
 ## Usage
